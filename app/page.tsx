@@ -1,3 +1,4 @@
+'use client'
 import { Button } from "@/components/ui/button";
 import { IconWhatsapp } from "@/public/icons";
 import Image from "next/image";
