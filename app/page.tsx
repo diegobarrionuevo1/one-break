@@ -22,8 +22,8 @@ export default function Home() {
             playsInline
             poster="/primer-cuadro.jpg"
           />
-          <div className="absolute flex flex-col gap-5 items-center justify-center z-50  top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2  ">
-            <div className=" h-[300px] min-w-[550px] xl:flex xl:items-center xl:justify-center  ">
+          <div className="absolute flex flex-col gap-2 items-center justify-center z-50 w-full top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+            <div className=" min-w-[550px] max-w-[850px] max-h-[350px] xl:flex xl:items-center xl:justify-center">
               <LogoLottie />
             </div>
             <Button
