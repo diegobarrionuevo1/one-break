@@ -2,6 +2,8 @@
   "name": "one-break",
   "version": "0.1.0",
   "private": true,
+  "author": "Diego Barrionuevo",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
